@@ -4,7 +4,7 @@ All Rights Reserved.
 
 This directory includes an executable of our tool PolyCleaner. For details on the techniques behind see the publication "PolyCleaner: Clean your Polynomials before Backward Rewriting to Verify Million-gate Multipliers" by Alireza Mahzoon, Daniel Große, and Rolf Drechsler accepted at ICCAD 2018.
 
-PolyCleaner was developed and tested in Fedora 24. For questions please contact mahzoon@informatik.uni-bremen.de
+PolyCleaner was developed and tested in Fedora 24. For related information, e.g. other SCA-based verification approaches, please visit http://www.sca-verification.org/ or contact polycleaner@sca-verification.org.
 
 
 *************************************************
